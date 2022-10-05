@@ -3,4 +3,4 @@
 
 ## Info
 * Last version of unity used was 2021.3.11f1
-* Set the aspect ratio to 300x600
+* When first opening project, set the aspect ratio to 300x600
